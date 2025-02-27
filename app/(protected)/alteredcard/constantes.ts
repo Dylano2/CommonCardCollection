@@ -1,0 +1,1 @@
+export const ALTERED_API_URL: string = "https://api.altered.gg/";
